@@ -1,0 +1,27 @@
+body {
+    box-sizing: border-box;
+   font-family: "Poppins", sans-serif;
+}
+.container{
+    width: 800px;
+    margin: 20px auto;
+    border: 5px dashed grey;
+    padding: 50px;
+}
+img{
+    width: 500px;
+    padding: 40px 50px 10px 5px;
+}
+h1{
+    color: rgb(60, 230, 230);
+    text-align: center;
+    cursor: pointer;
+}
+figcaption{
+    color: rgb(57, 56, 58);
+}
+h1:hover{
+    border-bottom: 3px solid red;
+
+    
+}
